@@ -1,5 +1,5 @@
 # UNO
-This project is bassed on Object Oriented Programming. 
+This project is based on Object Oriented Programming. 
 
 Uno is a game that consists of 108 cards and each player that plays starts off with 5 cards.
 Depending on the card that is on top of the deck the player can either play with it's existing cards or has to draw 1 card if there are no other possible moves. 
